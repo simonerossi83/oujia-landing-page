@@ -23,7 +23,9 @@ header {
 #header-img {
   max-width: 100px;
   float: left;
+  margin: 10px;
 }
+
 
 h1 {
 font-family: 'Walter Turncoat', cursive;
@@ -80,6 +82,12 @@ p, label {
 
 section {
   text-align: center;
+
+}
+
+section h2 {
+  margin-bottom: 20px;
+  background-color: hsla(0,60%,30%,0.6);
 }
 
 input {
